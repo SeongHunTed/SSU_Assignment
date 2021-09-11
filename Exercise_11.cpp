@@ -24,16 +24,22 @@ public:
     double getHeight(){
         return height;
     }
-    void setAll(double l, double w, double h){
+    void setLength(double l){
         length = l;
-        width = w;
+    }
+    void setHeight(double h){
         height = h;
+    }
+    void setWidth(double w){
+        width = w;
     }
 };
 
 int main(){
     Box myBox;
-    myBox.setAll(6,7,5);
+    myBox.setLength(6);
+    myBox.setWidth(7);
+    myBox.setHeight(5);
     cout << "[" << myBox.getLength() << "," << myBox.getWidth() << "," << myBox.getHeight() << "]" << endl;
     cout << "상자의 부피 : " << myBox.getVolume() << endl;
 }
