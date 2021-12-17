@@ -8,7 +8,7 @@
 			"args": [
 				"-g",
 				"-std=c++11",
-				"${fileDirname}/*.cpp",
+				"${file}",
 				"-o",
 				"${fileDirname}/${fileBasenameNoExtension}"
 			],
