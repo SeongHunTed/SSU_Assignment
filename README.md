@@ -1,6 +1,6 @@
 # [C++] Basic Programming Practice
 
-# Index
+# C++
 - [Class](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH04)
 - [Constructor & Destructor](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH05)
 - [Class Array & Vector](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH06)
@@ -10,7 +10,8 @@
 - [Inheritage](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH11)
 - [Polymorphism](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH12)
 - [Exception & Template](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH13)
-<br>
+
+# Alogorithm
 - [Algorithm](https://github.com/SeongHunTed/SSU_Assignment/tree/main/SSU_Algorithm)
 
 
