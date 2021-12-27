@@ -23,4 +23,4 @@
 
 - Algorithm
   - 학교에서 배운 알고리즘 중 중요하다고 여긴 알고리즘을 구현했습니다.
-  - Floyd, Kruscal, Dij
+  - Floyd, Kruscal, Dijkstra 등등 입니다.
