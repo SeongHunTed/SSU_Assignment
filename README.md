@@ -6,12 +6,12 @@
 - [Class Array & Vector](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH06)
 - [Pointer & Dynamic allocate](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH08)
 - [Copy Constructor](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH09)
-- [Operator Overloading)(https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH10)
+- [Operator Overloading](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH10)
 - [Inheritage](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH11)
 - [Polymorphism](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH12)
 - [Exception & Template](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH13)
-
-- [Algorithm]
+<p>
+- [Algorithm](https://github.com/SeongHunTed/SSU_Assignment/tree/main/SSU_Algorithm)
 
 
 ## Explain
