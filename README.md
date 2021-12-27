@@ -10,7 +10,7 @@
 - [Inheritage](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH11)
 - [Polymorphism](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH12)
 - [Exception & Template](https://github.com/SeongHunTed/SSU_Assignment/tree/main/CH13)
-<p>
+<br>
 - [Algorithm](https://github.com/SeongHunTed/SSU_Assignment/tree/main/SSU_Algorithm)
 
 
